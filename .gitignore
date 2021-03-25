@@ -83,7 +83,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -117,3 +116,5 @@ lightning_logs
 *.gz
 .DS_Store
 .*_submit.py
+config.bat
+node_modules
